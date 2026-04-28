@@ -1,0 +1,11 @@
+schedule==1.2.2
+playsound3>=1.2.0  # cross‑platform audio playback
+pytz==2024.1       # timezone handling (optional)
+# For Windows users, you may need to install additional dependencies for playsound:
+# pip install pywin32       
+
+# For Linux users, you may need to install additional dependencies for playsound:
+# sudo apt-get install python3-pip
+
+# For macOS users, you may need to install additional dependencies for playsound:
+# brew install portaudio   

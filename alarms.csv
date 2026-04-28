@@ -1,0 +1,5 @@
+time,message,alarm_sound_file
+00:00,Test Message,alarm_sound.wav
+08:00,Good Morning! Start your day!,alarm_sound.wav
+12:30,Lunch Break Time! Take a breather.,alarm_sound.wav
+19:32,Test alarm,alarm_sound.wav
