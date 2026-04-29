@@ -129,8 +129,6 @@ def main() -> None:
         sys.exit(1)
 
     schedule_alarms(alarms, TIMEZONE)
-    #logging.info("All alarms scheduled. Running scheduler…")
-    #run_scheduler()
     #now = dt.datetime.now()
     #trigger_time = (now + dt.timedelta(minutes=1)).strftime("%H:%M")
     #schedule.every().day.at(trigger_time).do(play_alarm, message="One‑minute test")
